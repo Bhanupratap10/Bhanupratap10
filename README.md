@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhanu Pratap Nishad</h1>
 <h3 align="center">A passionate Mern full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
+<img align="right" alt="coding" width="410" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanupratap10&label=Profile%20views&color=0e75b6&style=flat" alt="bhanupratap10" /> </p>
 
