@@ -1,9 +1,9 @@
-<!-- Hacker Vibe Banner -->
+<!--  Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:0f0c29&text=Bhanu%20Pratap%20Nishad&fontColor=00ffea&fontAlign=50&fontSize=54&animation=twinkling" alt="banner"/>
 </p>
 
-<!-- Typing Hacker Intro -->
+<!-- Typing  Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Software+Engineer+%7C+Problem+Solver;Building+Future+with+Code;Hacker+Mindset+%7C+Open+Source+Contributor" alt="typing"/>
 </p>
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats (Hacker Mode)
+### 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhanupratap10&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ffea&icon_color=00ffea" height="170" alt="stats"/>
   <img src="https://streak-stats.demolab.com?user=bhanupratap10&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ffea&fire=00ffea&currStreakLabel=00ffea" height="170" alt="streak"/>
@@ -72,6 +72,12 @@
 </p>
 
 ---
+
+### 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhanupratap10&style=for-the-badge&color=00ffea&label=PROFILE+VIEWS"/>
+</p>
+
 
 <!-- Matrix Rain Footer -->
 <p align="center">
