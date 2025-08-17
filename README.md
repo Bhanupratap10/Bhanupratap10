@@ -1,3 +1,8 @@
+<!-- Futuristic Dark Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Bhanu+Pratap+Nishad;💻+Full+Stack+MERN+Developer;🚀+Problem+Solver+%7C+Open+Source+Enthusiast;🔥+Building+Future+with+Code" alt="Typing Animation" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Bhanu Pratap Nishad</h1>
 <h3 align="center">A passionate Mern full stack developer from India</h3>
 
