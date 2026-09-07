@@ -1,438 +1,291 @@
-<!-- ========================================================= -->
+<div align="center">
 
-<!--                    PREMIUM GITHUB README                  -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:050505,50:0B0F0D,100:050505&text=BHANU%20PRATAP%20NISHAD&fontColor=00FF9C&fontAlignY=42&fontSize=42&fontWeight=700&desc=SOFTWARE%20ENGINEER%20%C2%B7%20FULL%20STACK%20MERN%20DEVELOPER&descAlignY=62&descSize=16&descColor=00D9FF&animation=fadeIn" width="100%"/>
 
-<!-- ========================================================= -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=00FF9C&center=true&vCenter=true&width=760&height=40&lines=root%40bhanu%3A~%24+whoami;Trainee+Programmer+%40+Aptara+Pvt.+Ltd.;MERN+Stack+%7C+Java+%7C+DSA+%7C+REST+APIs;Exploring+Generative+%26+Agentic+AI...;status%3A+building+%E2%80%94+debugging+%E2%80%94+shipping_" alt="Typing SVG"/>
 
-<!-- HERO -->
+<br/>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,50:111827,100:00c6ff&text=BHANU%20PRATAP%20NISHAD&fontColor=ffffff&fontAlignY=38&fontSize=48&fontWeight=700&desc=MERN%20STACK%20DEVELOPER%20%7C%20TRAINEE%20PROGRAMMER&descAlignY=62&descSize=17&descColor=00e5ff&animation=twinkling"
-    width="100%"
-    alt="Bhanu Pratap Nishad"
-  />
-</p>
+<a href="https://github.com/Bhanupratap10"><img src="https://img.shields.io/badge/GITHUB-Bhanupratap10-0B0F0D?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=050505" /></a>
+<a href="https://linkedin.com/in/bhanu-pratap-nishad"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0B0F0D?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=050505" /></a>
+<a href="https://leetcode.com/bhanu_pratap_nishad/"><img src="https://img.shields.io/badge/LEETCODE-Solve-0B0F0D?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=050505" /></a>
+<a href="mailto:nishadbhanupratap0@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0B0F0D?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=050505" /></a>
 
-<!-- INTRO -->
+<sub><img src="https://komarev.com/ghpvc/?username=bhanupratap10&style=flat-square&color=0B0F0D&label=PROFILE+VIEWS" /></sub>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Trainee+Programmer+%40+Aptara;Full+Stack+Web+Developer;Java+%7C+DSA+%7C+Problem+Solver;Exploring+Generative+%26+Agentic+AI;Building+%7C+Learning+%7C+Shipping"
-    alt="Typing introduction"
-  />
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Bhanupratap10">
-    <img src="https://img.shields.io/badge/GitHub-Bhanupratap10-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/bhanu-pratap-nishad">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nishadbhanupratap0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/bhanu_pratap_nishad/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<br/>
 
-<br>
-
-<!-- PROFILE SNAPSHOT -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhanupratap10&style=flat-square&color=00e5ff&label=PROFILE+VIEWS" />
-</p>
-
----
-
-# 👋 Hey, I'm Bhanu
-
-<img align="right" width="360" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Developer coding animation"/>
-
-I'm a **MERN Stack Developer** and currently working as a **Trainee Programmer at Aptara Pvt. Ltd.**
-
-I enjoy building full-stack web applications, solving Data Structures & Algorithms problems, and exploring modern AI technologies.
-
-### What I do
-
-* 💻 Build full-stack applications with **React.js, Node.js, Express.js & MongoDB**
-* 🔐 Develop secure applications using **JWT authentication & REST APIs**
-* ⚡ Work with **real-time communication using WebSockets**
-* 🧠 Practice **Data Structures & Algorithms using Java**
-* 🤖 Explore **Generative AI, Agentic AI & LangChain**
-* 🛠️ Work with structured digital content using **HTML, CSS, XML & LaTeX**
-* 🚀 Focus on writing maintainable, scalable and user-focused solutions
-
-### Currently
-
-```text
-Role        → Trainee Programmer @ Aptara Pvt. Ltd.
-Focus       → MERN Stack Development
-DSA         → Java + Problem Solving
-Exploring   → Generative AI + Agentic AI + LangChain
-Goal        → Build impactful software & grow as a Software Engineer
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  > cat about.md                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
----
+**B.Tech in Information Technology**, currently working as a **Trainee Programmer at Aptara Pvt. Ltd.** I build full-stack web applications with the **MERN stack**, write clean **Java + DSA** solutions, and design backends around **REST APIs, JWT authentication and WebSockets**. Comfortable across **MongoDB and MySQL**, and currently deepening my knowledge of **Generative AI, Agentic AI and LangChain**.
 
-# 💼 Experience
-
-## 🏢 Trainee Programmer — Aptara Pvt. Ltd.
-
-**December 2025 – Present · Noida, India**
-
-* Work with **HTML, CSS, XML and LaTeX** across structured digital content and publishing workflows.
-* Troubleshoot **layout, rendering and markup issues** through debugging and content validation.
-* Handle content deployment, web page updates and structured content migration.
-* Perform quality assurance and contribute to workflow optimization and operational efficiency.
-
-## 💻 Web Developer — Code Eternity
-
-**March 2025 – August 2025 · Noida, India**
-
-* Developed and maintained web applications using **React.js and Express.js**.
-* Worked on **AI-based projects** alongside web development.
-* Collaborated with cross-functional teams to understand project requirements.
-* Delivered user-focused solutions following coding standards and development best practices.
-
----
-
-# 🧰 Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-`REST APIs` · `JWT` · `WebSockets`
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
-</p>
-
-### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm" />
-</p>
-
-### Core Computer Science
-
-`Data Structures & Algorithms` · `OOPs` · `DBMS` · `Operating Systems` · `SDLC`
-
----
-
-# 🤖 AI & Modern Development
-
-> **Currently exploring the intersection of Full Stack Development and AI.**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-Exploring-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-00C6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-Learning-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-Exploring-10B981?style=for-the-badge" />
-</p>
-
-**Learning path**
-
-`LLMs` → `Prompting` → `LangChain` → `AI Applications` → `Agents` → `Agentic Workflows`
-
----
-
-# 🚀 Featured Projects
+I care about writing software that is maintainable, well-structured, and built to last past the first demo.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏠 Go Rental
-
-**Online Lodging Marketplace**
-
-Airbnb-inspired platform for discovering rooms, lodges and villas based on location.
-
-**Highlights**
-
-* Search & booking system
-* JWT authentication
-* Session management
-* Client/server validation
-* RESTful CRUD APIs
-* MongoDB integration
-
-**Stack**
-
-`Node.js` `Express.js` `MongoDB` `JavaScript` `EJS` `Bootstrap`
+**Currently**
+```yaml
+role:      Trainee Programmer @ Aptara Pvt. Ltd.
+focus:     MERN Stack Development
+strength:  Java · DSA · REST APIs
+exploring: Generative AI · Agentic AI · LangChain
+based_in:  Noida, India
+```
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🤖 SigmaGPT
-
-**Full-Stack AI Chatbot**
-
-Real-time conversational application inspired by modern AI chatbot platforms.
-
-**Highlights**
-
-* Real-time messaging
-* Authentication
-* Message handling
-* Scalable backend
-* RESTful APIs
-* MongoDB persistence
-
-**Stack**
-
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🐙 GitHub Clone
-
-**Full-Stack Repository Platform**
-
-GitHub-inspired application featuring repository management and real-time activity tracking.
-
-**Highlights**
-
-* Repository management
-* JWT authentication
-* Password encryption
-* Real-time activity tracking
-* CRUD operations
-* REST APIs
-
-**Stack**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Bootstrap`
-
-</td>
-
-<td width="50%">
-
-### 🧩 More Projects
-
-I'm continuously building and experimenting with new ideas across:
-
-* Full Stack Web Development
-* AI-powered applications
-* Backend APIs
-* DSA & problem solving
-* Modern developer tools
-
-👉 **[Explore All Repositories →](https://github.com/Bhanupratap10?tab=repositories)**
+**Education**
+```yaml
+degree:    B.Tech, Information Technology
+institute: Uma Nath Singh Institute of
+           Engineering & Technology
+duration:  2021 – 2025
+location:  Jaunpur, Uttar Pradesh
+```
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-# 🧠 DSA & Problem Solving
+## `//` Experience
 
-<p align="center">
+<table>
+<tr><td>
 
-<a href="https://leetcode.com/bhanu_pratap_nishad/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+**Trainee Programmer** · Aptara Pvt. Ltd.
+`Dec 2025 – Present` &nbsp;·&nbsp; Noida, India
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%201-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+- Work across **HTML, CSS, XML and LaTeX** in structured content and publishing workflows
+- Debug **layout, rendering and markup issues** across production pipelines
+- Handle **content deployment**, page updates, and structured content migration
+- Perform quality assurance and contribute to workflow optimization
 
-</p>
+</td></tr>
+<tr><td>
 
-### 🏆 Highlights
+**Web Developer** · Code Eternity
+`Mar 2025 – Aug 2025` &nbsp;·&nbsp; Noida, India
 
-* 🥇 **Institute Rank 1 — GeeksforGeeks**
-* ☕ Strong focus on **Java + DSA**
-* 🧩 Regular problem solving
-* 📈 Continuously improving algorithmic thinking
+- Built web applications using **React.js and Express.js**
+- Contributed to **AI-based projects** alongside core web development
+- Collaborated with the team on requirements and delivery
+- Followed coding standards and development best practices
 
----
+</td></tr>
+</table>
 
-# 🏅 Certifications & Achievements
+<br/>
 
-| Achievement                               | Details                      |
-| ----------------------------------------- | ---------------------------- |
-| 🥇 **Institute Rank 1**                   | GeeksforGeeks                |
-| 🎓 **MERN Full Stack Training**           | Apna College                 |
-| ☁️ **Azure AI Fundamentals Challenge**    | Microsoft Cloud Ready Skills |
-| ☁️ **Associate Cloud Engineer**           | Google Cloud                 |
-| 🛰️ **Geo-data Sharing & Cyber Security** | ISRO Program                 |
+## `//` Tech Stack
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-# 📊 GitHub Analytics
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js&theme=dark" />
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bhanupratap10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF"
-    height="180"
-    alt="GitHub Statistics"
-  />
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css&theme=dark" />
 
-<img
- src="https://streak-stats.demolab.com?user=bhanupratap10&hide_border=true&background=00000000&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=888888"
- height="180"
- alt="GitHub Streak"
-/>
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<br/>
+`REST APIs` `JWT` `WebSockets`
 
-</p>
+</td>
+<td valign="top" width="50%">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanupratap10&layout=compact&hide_border=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
----
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm&theme=dark" />
 
-# 📈 Contribution Graph
+**Core CS**
+<br/>
+`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `SDLC`
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bhanupratap10&bg_color=00000000&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-# 🐍 Contribution Journey
+## `//` AI & Modern Engineering
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
+> Actively exploring the space where full-stack engineering meets applied AI. Presented here as ongoing learning, not professional experience.
 
----
+<div align="center">
 
-# 🏆 GitHub Trophies
+<img src="https://img.shields.io/badge/Generative_AI-learning-050505?style=flat-square&labelColor=0B0F0D&color=00FF9C"/>
+<img src="https://img.shields.io/badge/Agentic_AI-learning-050505?style=flat-square&labelColor=0B0F0D&color=00D9FF"/>
+<img src="https://img.shields.io/badge/LangChain-exploring-050505?style=flat-square&labelColor=0B0F0D&color=00FF9C"/>
+<img src="https://img.shields.io/badge/LLM_Applications-exploring-050505?style=flat-square&labelColor=0B0F0D&color=00D9FF"/>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=bhanupratap10&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
+`LLM fundamentals` → `Prompt design` → `LangChain` → `RAG` → `Agentic workflows`
 
----
+</div>
 
-# 🎯 2026 Focus
+<br/>
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                 MY CURRENT FOCUS                      │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  ████████████████████  MERN Stack Development       │
-│  ██████████████████    DSA & Problem Solving        │
-│  ████████████████      Generative AI                │
-│  ███████████████       Agentic AI                   │
-│  █████████████         LangChain                    │
-│  ████████████          System & Backend Concepts    │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+## `//` Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Go Rental
+Short-term rental marketplace, inspired by Airbnb, for discovering rooms, lodges and villas by location.
+
+**Stack** — `Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap` `JWT`
+
+- Location-based search & booking workflow
+- JWT authentication with session management
+- Client & server-side validation
+- CRUD REST APIs backed by MongoDB
+
+`↳` [github.com/Bhanupratap10](https://github.com/Bhanupratap10?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### SigmaGPT
+Full-stack real-time chatbot application inspired by modern AI assistants.
+
+**Stack** — `React.js` `Node.js` `Express.js` `MongoDB`
+
+- Real-time chatbot experience
+- Auth + message handling
+- RESTful APIs on a scalable backend
+- Persistent conversation storage
+
+`↳` [github.com/Bhanupratap10](https://github.com/Bhanupratap10?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### GitHub Clone
+GitHub-inspired platform focused on repository management and user activity.
+
+**Stack** — `React.js` `Node.js` `Express.js` `MongoDB` `Bootstrap`
+
+- Repository management + CRUD operations
+- JWT auth with password encryption
+- Real-time activity tracking
+- REST API layer
+
+`↳` [github.com/Bhanupratap10](https://github.com/Bhanupratap10?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### More on GitHub
+Ongoing experiments across full-stack apps, backend APIs, AI-powered tools and DSA practice.
+
+`↳` **[View all repositories →](https://github.com/Bhanupratap10?tab=repositories)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `//` DSA & Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/bhanu_pratap_nishad/"><img src="https://img.shields.io/badge/LeetCode-Profile-050505?style=for-the-badge&labelColor=0B0F0D&color=00FF9C&logo=leetcode&logoColor=00FF9C"/></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Institute_Rank_1-050505?style=for-the-badge&labelColor=0B0F0D&color=00D9FF&logo=geeksforgeeks&logoColor=00D9FF"/></a>
+
+</div>
+
+Consistent practice in **Java-based problem solving** across data structures and algorithms — ranked **#1 in my institute on GeeksforGeeks**.
+
+<br/>
+
+## `//` Certifications
+
+| | |
+|---|---|
+| **Institute Rank 1** | GeeksforGeeks |
+| **MERN Full Stack Training** | Apna College |
+| **Associate Cloud Engineer** | Google Cloud |
+| **AI Fundamentals — Cloud Ready Skills** | Microsoft Azure |
+| **Geo-data Sharing & Cyber Security** | ISRO (3-week program) |
+
+<br/>
+
+## `//` GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bhanupratap10&show_icons=true&hide_border=true&theme=transparent&title_color=00FF9C&text_color=8B949E&icon_color=00D9FF&bg_color=00000000" height="165"/>
+<img src="https://streak-stats.demolab.com?user=bhanupratap10&hide_border=true&background=00000000&ring=00FF9C&fire=00D9FF&currStreakLabel=00FF9C&sideLabels=8B949E&dates=8B949E&stroke=0B0F0D" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanupratap10&layout=compact&hide_border=true&theme=transparent&title_color=00FF9C&text_color=8B949E&bg_color=00000000" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+## `//` Current Focus
+
+```yaml
+mern_stack:        active development
+java_and_dsa:      daily practice
+backend_engineering: in depth
+generative_ai:     learning
+agentic_ai:        learning
+langchain:         exploring
 ```
 
----
+<br/>
 
-# 📚 Learning Philosophy
+## `//` Open to Opportunities
 
-<p align="center">
+Open to conversations around **Software Engineer**, **Full Stack Developer**, and **MERN / Backend Web Development** roles where I can build real, production-grade software.
 
-**Learn → Build → Break → Debug → Improve → Ship → Repeat**
+<br/>
 
-</p>
+<div align="center">
 
-I believe the best way to learn software engineering is to **build real projects, solve real problems and continuously improve through practice.**
+<a href="https://linkedin.com/in/bhanu-pratap-nishad"><img src="https://img.shields.io/badge/LinkedIn-0B0F0D?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/></a>
+<a href="mailto:nishadbhanupratap0@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F0D?style=for-the-badge&logo=gmail&logoColor=00FF9C"/></a>
+<a href="https://github.com/Bhanupratap10"><img src="https://img.shields.io/badge/GitHub-0B0F0D?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
+<a href="https://leetcode.com/bhanu_pratap_nishad/"><img src="https://img.shields.io/badge/LeetCode-0B0F0D?style=for-the-badge&logo=leetcode&logoColor=00FF9C"/></a>
+<a href="https://www.youtube.com/@bhanu-pratap-nishad"><img src="https://img.shields.io/badge/YouTube-0B0F0D?style=for-the-badge&logo=youtube&logoColor=00D9FF"/></a>
 
----
+</div>
 
-# 🌐 Let's Connect
+<br/>
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:050505,50:0B0F0D,100:050505&section=footer" width="100%"/>
 
-<a href="https://linkedin.com/in/bhanu-pratap-nishad">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:nishadbhanupratap0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Bhanupratap10">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/bhanu_pratap_nishad/">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.youtube.com/@bhanu-pratap-nishad">
-<img src="https://img.shields.io/badge/YouTube-My%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 📄 Resume
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1ZF9tzrU5O3BvzMgvaj-vodzGUwY_lI-m/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View%20Resume-00E5FF?style=for-the-badge&logo=readthedocs&logoColor=black"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00c6ff,50:111827,100:050505"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <b>✨ Build with purpose. Learn continuously. Ship confidently.</b>
-</p>
-
-<p align="center">
-  <code>while(true) { learn(); build(); solve(); ship(); }</code>
-</p>
-
-<p align="center">
-  <sub>© Bhanu Pratap Nishad · Open to Software Engineering & Full Stack opportunities</sub>
-</p>
+<div align="center">
+<sub>Building software. Solving problems. Learning continuously.</sub>
+</div>
