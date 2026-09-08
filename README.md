@@ -1,8 +1,4 @@
-<!-- ========================================================= -->
 
-<!--                    PREMIUM GITHUB README                  -->
-
-<!-- ========================================================= -->
 
 <!-- HERO -->
 
@@ -52,7 +48,7 @@
 
 <img align="right" width="360" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Developer coding animation"/>
 
-I'm a **MERN Stack Developer** and currently working as a **Trainee Programmer at Aptara Pvt. Ltd.**
+I'm a **MERN Stack Developer** and currently working as a **Programmer at Aptara Pvt. Ltd.**
 
 I enjoy building full-stack web applications, solving Data Structures & Algorithms problems, and exploring modern AI technologies.
 
@@ -62,8 +58,8 @@ I enjoy building full-stack web applications, solving Data Structures & Algorith
 * 🔐 Develop secure applications using **JWT authentication & REST APIs**
 * ⚡ Work with **real-time communication using WebSockets**
 * 🧠 Practice **Data Structures & Algorithms using Java**
-* 🤖 Explore **Generative AI, Agentic AI & LangChain**
-* 🛠️ Work with structured digital content using **HTML, CSS, XML & LaTeX**
+* 🤖 Explore **Generative AI/ML, Agentic AI**
+* 🛠️ Develop and maintain **frontend web applications by fixing bugs, improving existing functionality, and implementing new features and UI enhancements**
 * 🚀 Focus on writing maintainable, scalable and user-focused solutions
 
 ### Currently
@@ -85,9 +81,9 @@ Goal        → Build impactful software & grow as a Software Engineer
 **December 2025 – Present · Noida, India**
 
 * Work with **HTML, CSS, XML and LaTeX** across structured digital content and publishing workflows.
-* Troubleshoot **layout, rendering and markup issues** through debugging and content validation.
-* Handle content deployment, web page updates and structured content migration.
-* Perform quality assurance and contribute to workflow optimization and operational efficiency.
+* Fix website bugs, UI issues and functional problems through debugging and testing.
+* Implement new features, UI updates and functionality enhancements as per requirements.
+* Perform website maintenance, quality testing and performance improvements.
 
 ## 💻 Web Developer — Code Eternity
 
